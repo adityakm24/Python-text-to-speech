@@ -2,6 +2,6 @@
 
 To install the required libraries, you can use pip install command:
 
-pip install tkinter
-pip install gTTS
-pip install playsound
+pip install tkinter<br>
+pip install gTTS<br>
+pip install playsound<br>
